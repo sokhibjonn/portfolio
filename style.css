@@ -1,0 +1,48 @@
+.myBg-nav{
+    background-color: #2c3e50;
+}
+.navcon{
+    width: 70%;
+}
+.myBoot{
+    font-weight: 600;
+    
+}
+.linklar{
+    font-size: 12px;
+    font-weight: 500;
+}
+.container img{
+    width: 35%;
+}
+.introcon{
+    width: 50%;
+    text-align: center;
+}
+.color{
+    background-color: #1abc9c;
+     
+}
+.uy{
+    width: 70%;
+    margin-left: 32%;
+}
+.card{
+    margin-right: 2%;
+    cursor: pointer;
+    
+}
+.card:hover{
+    opacity: 50%;
+    background-color: #1abc9c !important;
+}
+.style{
+    width: 70%;
+
+}
+.color2{
+    background-color: #1abc9c;
+}
+.container{
+    width: 50%;
+}
